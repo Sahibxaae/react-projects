@@ -12,7 +12,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "homepage": "https://sahibxaae.github.io/react-projects",
+    "homepage": "https://Sahibxaae.github.io/react-projects",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
